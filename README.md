@@ -1,5 +1,5 @@
 ### Hey, I'm Ben 👋
 
-I have had the pleasure of working on some really cool and important things, from decarbonization to self driving cars.
+I'm now building **[Monterey AI](https://www.monterey.ai)** 🤖 📝 🐳.
 
-Now, I'm working on something new! TBD
+If you want to learn more, or are interested in working with me, please get in touch!
