@@ -1,5 +1,5 @@
-### Hi, I'm Ben 👋
+**Hi, I'm Ben 👋**
 
-I'm now building **[Reforge Insight Analytics](https://www.reforge.com/insight-analytics)** 🤖 📝 🐳.
+I'm building **[Insight Analytics](https://www.reforge.com/insight-analytics)** and other cool, new AI products at **[Reforge](https://www.reforge.com)**. 🤖 📝 🐳.
 
-If you want to learn more, or are interested in working with me, get in touch!
+Want to work with me? Reach out!
